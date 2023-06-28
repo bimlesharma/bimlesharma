@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on **CatersCloud**
 
 
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **bimlesh.mdb@gmail.com**
